@@ -32,7 +32,7 @@ For a more detailed description of the functionalities, please refer to the "Fun
 + 地图实现： Mapbox + Google Map
 + 语法规范工具：ESLint + Prettier
 
-<img src="./.md-imgs/README.assets/image-20230731155249135.png" alt="image-20230731155249135" style="zoom:50%;" />
+<img src="./.md-imgs/README.assets/image-20230731155249135.png" alt="image-20230731155249135" style="zoom:30%;" />
 
 
 

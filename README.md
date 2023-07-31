@@ -32,6 +32,8 @@ For a more detailed description of the functionalities, please refer to the "Fun
 + 地图实现： Mapbox + Google Map
 + 语法规范工具：ESLint + Prettier
 
+<img src="./.md-imgs/README.assets/image-20230731155249135.png" alt="image-20230731155249135" style="zoom:50%;" />
+
 
 
 ## Demo 视频
@@ -40,11 +42,11 @@ B站 Demo 视频 (Teams 答辩录屏)：[Porject Find-A-Service Demo_-_bilibili]
 
 **Home Page**
 
-![Home page](./.md-imgs/README.assets/Home page.jpeg)
+<img src="./.md-imgs/README.assets/Home page.jpeg" alt="Home page" style="zoom:100%;" />
 
 **Service Detail Page**
 
-![Service page](./.md-imgs/README.assets/Service page.jpeg)
+<img src="./.md-imgs/README.assets/Service page.jpeg" alt="Service page" style="zoom:100%;" />
 
 
 

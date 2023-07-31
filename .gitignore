@@ -28,3 +28,6 @@ dist-ssr
 .VSCodeCounter
 # exclude TEST files
 TEST/
+
+FirebaseSetup.js
+MapboxConfig.js
